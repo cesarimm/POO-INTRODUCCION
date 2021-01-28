@@ -3,8 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/Desktop/Proyectos/PrimerProyecto/src/calculadora/Fraccion.java</file>
-            <file>file:/D:/Desktop/Proyectos/PrimerProyecto/src/calculadora/Calculadora.java</file>
+            <file>file:/D:/Desktop/Proyectos/PrimerProyecto/src/SistemaTransaccion/Fecha.java</file>
+            <file>file:/D:/Desktop/Proyectos/PrimerProyecto/src/SistemaTransaccion/Direccion.java</file>
+            <file>file:/D:/Desktop/Proyectos/PrimerProyecto/src/SistemaTransaccion/Cajero.java</file>
+            <file>file:/D:/Desktop/Proyectos/PrimerProyecto/src/SistemaTransaccion/Debito.java</file>
         </group>
     </open-files>
 </project-private>
